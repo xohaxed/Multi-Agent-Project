@@ -1,0 +1,38 @@
+# Build artifacts
+target/
+*.jar
+*.class
+
+# JADE files
+APDescription.txt
+MTPs-Main-Container.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.so
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+*.tmp
+*.bak
+*.old
+*.log
