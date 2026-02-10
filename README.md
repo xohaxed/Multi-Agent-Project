@@ -480,8 +480,8 @@ This project is created for educational purposes as part of a technical course.
 ## 👥 Authors
 
 **Course:** Multi-Agent Systems & AI Planning  
-**Institution:** [Your Institution Name]  
-**Academic Year:** 2025-2026
+**Institution:** USTHB
+**Academic Year:** 2024-2025
 
 ---
 
